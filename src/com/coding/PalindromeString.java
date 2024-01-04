@@ -21,6 +21,10 @@ public class PalindromeString {
         // Method 2 - Using Boolean value
         palindromeUsingBool(str);
 
+        // Palindrome of Number
+        int number = 10101;
+        isNumberPalindrome(number);
+
     }
 
 
@@ -58,6 +62,25 @@ public class PalindromeString {
         }
         else {
             System.out.println("String is a Palindrome.");
+        }
+    }
+
+    // Palindrome of Number
+    static void isNumberPalindrome(int num){
+        int originalNum = num;
+        int newNum = 0;
+
+        while (num > 0){
+            int remainder = num % 10;
+            newNum = newNum * 10 + remainder;
+            num = num / 10;
+        }
+
+        if (originalNum == newNum){
+            System.out.println("Number is a Palindrome.");
+        }
+        else {
+            System.out.println("Number is not a Palindrome.");
         }
     }
 }

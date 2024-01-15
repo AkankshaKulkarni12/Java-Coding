@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 1 Solved Problems">
-      <change afterPath="$PROJECT_DIR$/src/com/coding/AverageOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/DistanceBetweenTwoPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/PermutationsAndCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/PythagoreanTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/VowelOrConsonant.java" afterDir="false" />
+    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Added Number Palindrome Check">
+      <change afterPath="$PROJECT_DIR$/src/com/coding/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/FloorOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/LinearSearchInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/MinimumElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/PositionOfAnElementInInfiniteSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/SearchingIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/BuildArrayFromPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/NumberOfGoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RichestCustomerWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RunningSumOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/ShuffleTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coding/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coding/PalindromeString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +54,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Akanksha Kulkarni/IdeaProjects/JavaCodingQuestions"
+    "last_opened_file_path": "D:/IdeaProjects/JavaBootcamp",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PythagoreanTriplet">
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.PalindromeString" />
+  <component name="RunManager" selected="Application.PositionOfAnElementInInfiniteSortedArray">
+    <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.CeilingOfANumber" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +72,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.PerfectNumber" />
+    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindFirstAndLastPositionOfElementInSortedArray" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindSmallestLetterGreaterThanTarget" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloorOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.FloorOfANumber" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -74,34 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PythagoreanTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.PythagoreanTriplet" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.ReverseAString" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.VowelOrConsonant" />
+    <configuration name="PositionOfAnElementInInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.PositionOfAnElementInInfiniteSortedArray" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PythagoreanTriplet" />
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.VowelOrConsonant" />
-        <item itemvalue="Application.PalindromeString" />
-        <item itemvalue="Application.ReverseAString" />
+        <item itemvalue="Application.PositionOfAnElementInInfiniteSortedArray" />
+        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
+        <item itemvalue="Application.FindSmallestLetterGreaterThanTarget" />
+        <item itemvalue="Application.FloorOfANumber" />
+        <item itemvalue="Application.CeilingOfANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703762368991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Week 2 Solved Problems">
+      <created>1704367215359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704367215359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Number Palindrome Check">
+      <created>1704367290139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704367290139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +188,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit - Java Coding" />
     <MESSAGE value="Week 1 Solved Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 1 Solved Problems" />
+    <MESSAGE value="Week 2 Solved Problems" />
+    <MESSAGE value="Added Number Palindrome Check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Number Palindrome Check" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/coding/OrderAgnosticBinarySearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/leetcode/BuildArrayFromPermutation.java" line="26">
+        <watch expression="ans[5]" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>

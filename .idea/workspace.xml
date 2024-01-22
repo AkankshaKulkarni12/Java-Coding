@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Added Number Palindrome Check">
-      <change afterPath="$PROJECT_DIR$/src/com/coding/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/CeilingOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/FloorOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/LinearSearchInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/MinimumElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/OrderAgnosticBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/PositionOfAnElementInInfiniteSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/SearchingIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/BuildArrayFromPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/ConcatenationOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/NumberOfGoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RunningSumOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/ShuffleTheArray.java" afterDir="false" />
+    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 3 and 4">
+      <change afterPath="$PROJECT_DIR$/src/com/coding/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/RotationCountInRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/SearchingInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/SearchingInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/CreateTargetArrayInGivenOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindAllDuplicatesInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindTheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/NumbersSmallerThanCurrentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/PeakIndexInAMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/SplitArrayLargestSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/NumberOfGoodPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/NumberOfGoodPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,26 +56,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/IdeaProjects/JavaBootcamp",
+    "last_opened_file_path": "D:/IdeaProjects/JavaCodingQuestions",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PositionOfAnElementInInfiniteSortedArray">
-    <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.CeilingOfANumber" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindFirstAndLastPositionOfElementInSortedArray" />
+  <component name="RunManager" selected="Application.FirstMissingPositive">
+    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FirstMissingPositive" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindSmallestLetterGreaterThanTarget" />
+    <configuration name="com.leetcode.FindAllDuplicatesInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindAllDuplicatesInAnArray" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloorOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.FloorOfANumber" />
+    <configuration name="com.leetcode.FindAllNumbersDisappearedInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindAllNumbersDisappearedInAnArray" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionOfAnElementInInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.PositionOfAnElementInInfiniteSortedArray" />
+    <configuration name="com.leetcode.FindTheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.FindTheDuplicateNumber" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.leetcode.SetMismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.SetMismatch" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PositionOfAnElementInInfiniteSortedArray" />
-        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
-        <item itemvalue="Application.FindSmallestLetterGreaterThanTarget" />
-        <item itemvalue="Application.FloorOfANumber" />
-        <item itemvalue="Application.CeilingOfANumber" />
+        <item itemvalue="Application.FirstMissingPositive" />
+        <item itemvalue="Application.com.leetcode.SetMismatch" />
+        <item itemvalue="Application.com.leetcode.FindAllDuplicatesInAnArray" />
+        <item itemvalue="Application.com.leetcode.FindTheDuplicateNumber" />
+        <item itemvalue="Application.com.leetcode.FindAllNumbersDisappearedInAnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704367290139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week 3 and 4">
+      <created>1705302200287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705302200287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +199,8 @@
     <MESSAGE value="Week 1 Solved Problems" />
     <MESSAGE value="Week 2 Solved Problems" />
     <MESSAGE value="Added Number Palindrome Check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Number Palindrome Check" />
+    <MESSAGE value="Week 3 and 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 and 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

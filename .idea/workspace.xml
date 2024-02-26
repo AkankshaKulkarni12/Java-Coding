@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 5">
-      <change afterPath="$PROJECT_DIR$/src/com/coding/FibonacciSeriesRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/CellsWithOddValuesInAMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/CheckIfTheSentenceIsPangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/CountItemsMatchingARule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/CreateTargetArrayInGivenOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FindTheHighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/FlippingAnImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/MatrixDiagonalSum.java" afterDir="false" />
+    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 6">
+      <change afterPath="$PROJECT_DIR$/src/com/coding/BinarySearchFindingSqRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/FactorsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/FindTheIthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/FindUniqueXOROp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/NewtonRaphsonMethodSqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/OddEvenBitwiseOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RomanToInteger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/ArraysSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/DigitProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/LinearSearchRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/PassingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/PrintNtoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/JavaCodingQuestions&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/IdeaProjects/NewProject",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.CreateTargetArrayInGivenOrder">
-    <configuration name="CellsWithOddValuesInAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.CellsWithOddValuesInAMatrix" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.recursionleetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RotatedBinarySearch">
+    <configuration name="ArraysSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.ArraysSorted" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.recursionleetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateTargetArrayInGivenOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.CreateTargetArrayInGivenOrder" />
+    <configuration name="CountSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.CountSteps" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.recursionleetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeriesRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.FibonacciSeriesRecursion" />
+    <configuration name="LinearSearchRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.LinearSearchRecursion" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.*" />
+          <option name="PATTERN" value="com.recursionleetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlippingAnImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.FlippingAnImage" />
+    <configuration name="RotatedBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.RotatedBinarySearch" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.recursionleetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.MatrixDiagonalSum" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.TwoSum" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateTargetArrayInGivenOrder" />
-        <item itemvalue="Application.CellsWithOddValuesInAMatrix" />
-        <item itemvalue="Application.MatrixDiagonalSum" />
-        <item itemvalue="Application.FibonacciSeriesRecursion" />
-        <item itemvalue="Application.FlippingAnImage" />
+        <item itemvalue="Application.RotatedBinarySearch" />
+        <item itemvalue="Application.LinearSearchRecursion" />
+        <item itemvalue="Application.ArraysSorted" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.CountSteps" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705927200307</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Week 6">
+      <created>1706791140277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706791140277</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +225,8 @@
     <MESSAGE value="Added Number Palindrome Check" />
     <MESSAGE value="Week 3 and 4" />
     <MESSAGE value="Week 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 5" />
+    <MESSAGE value="Week 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

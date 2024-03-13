@@ -2,32 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 6">
+      <change afterPath="$PROJECT_DIR$/src/com/coding/AsciiValueOfChar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/BinarySearchFindingSqRoot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/FactorsOfNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/FindTheIthBit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/FindUniqueXOROp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/MergeSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/NewtonRaphsonMethodSqrt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/OddEvenBitwiseOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coding/QuickSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/coding/SieveOfEratosthenes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/AddToArrayFormOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LetterCombinationsOfPhnNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/ArraysSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/DigitProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/LinearSearchRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/PassingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/PrintNtoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/RotatedBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/AllPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountingPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/MazeProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SkipTheLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,23 +55,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/IdeaProjects/NewProject",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/NewProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.recursionleetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotatedBinarySearch">
-    <configuration name="ArraysSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.ArraysSorted" />
+  <component name="RunManager" selected="Application.AllPaths">
+    <configuration name="AllPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.AllPaths" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.CountSteps" />
+    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.Dice" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -97,34 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearchRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.LinearSearchRecursion" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.recursionleetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotatedBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.RotatedBinarySearch" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.recursionleetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.TwoSum" />
+    <configuration name="LetterCombinationsOfPhnNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.LetterCombinationsOfPhnNum" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -136,13 +109,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MazeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.MazeProblems" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursionleetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.Permutations" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recursionleetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotatedBinarySearch" />
-        <item itemvalue="Application.LinearSearchRecursion" />
-        <item itemvalue="Application.ArraysSorted" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.CountSteps" />
+        <item itemvalue="Application.AllPaths" />
+        <item itemvalue="Application.MazeProblems" />
+        <item itemvalue="Application.LetterCombinationsOfPhnNum" />
+        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.Permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706791140277</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Week 6">
+      <created>1708972383077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708972383077</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +241,15 @@
           <url>file://$PROJECT_DIR$/src/com/coding/OrderAgnosticBinarySearch.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/LetterCombinationsOfPhnNum.java</url>
+          <line>28</line>
+          <properties class="com.leetcode.LetterCombinationsOfPhnNum" method="phone2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

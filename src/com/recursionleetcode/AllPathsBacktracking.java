@@ -4,7 +4,7 @@ package com.recursionleetcode;
 
 import java.util.Arrays;
 
-public class AllPaths {
+public class AllPathsBacktracking {
     public static void main(String[] args) {
 
         boolean[][] board = { {true, true, true},

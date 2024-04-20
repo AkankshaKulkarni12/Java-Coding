@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Week 6">
-      <change afterPath="$PROJECT_DIR$/src/com/coding/AsciiValueOfChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/BinarySearchFindingSqRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/FactorsOfNumber.java" afterDir="false" />
+    <list default="true" id="887e3d6d-a844-437b-86a6-13fbe652f6ec" name="Changes" comment="Recursion">
       <change afterPath="$PROJECT_DIR$/src/com/coding/FindTheIthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/FindUniqueXOROp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/GCD_LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/NewtonRaphsonMethodSqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/OddEvenBitwiseOPs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coding/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datasstructures/CircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datasstructures/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datasstructures/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datasstructures/SinglyLinkedLists.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/HappyNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/LetterCombinationsOfPhnNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LinkedListCycle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/MiddleOfTheLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/SortList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/AllPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/CountingPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/MazeProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/SkipTheLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Subsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/recursionleetcode/NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,22 +61,9 @@
       <recent name="com.recursionleetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AllPaths">
-    <configuration name="AllPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.AllPaths" />
-      <module name="JavaCodingQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.recursionleetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.Dice" />
+  <component name="RunManager" selected="Application.com.datasstructures.Main">
+    <configuration name="AllPathsBacktracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.AllPathsBacktracking" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.MazeProblems" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.NQueens" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.Permutations" />
+    <configuration name="com.datasstructures.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datasstructures.Main" />
+      <module name="JavaCodingQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datasstructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.recursionleetcode.MazeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursionleetcode.MazeProblems" />
       <module name="JavaCodingQuestions" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllPaths" />
-        <item itemvalue="Application.MazeProblems" />
+        <item itemvalue="Application.com.datasstructures.Main" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.AllPathsBacktracking" />
+        <item itemvalue="Application.com.recursionleetcode.MazeProblems" />
         <item itemvalue="Application.LetterCombinationsOfPhnNum" />
-        <item itemvalue="Application.Dice" />
-        <item itemvalue="Application.Permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708972383077</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Recursion">
+      <created>1710324850610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324850610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Recursion">
+      <created>1710483870551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710483870551</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +238,8 @@
     <MESSAGE value="Week 3 and 4" />
     <MESSAGE value="Week 5" />
     <MESSAGE value="Week 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 6" />
+    <MESSAGE value="Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
